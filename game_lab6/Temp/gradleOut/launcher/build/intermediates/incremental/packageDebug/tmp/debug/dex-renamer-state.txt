@@ -1,0 +1,4 @@
+#Tue Dec 22 11:16:10 MSK 2020
+base.0=C\:\\Users\\Liza\\game_lab6\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
